@@ -4,5 +4,7 @@ module.exports={
     PASSWORD:"root",
     DB:"ecom_db",
     dialect:"mysql"// RDBMS being used.
-    
+
 }
+
+
